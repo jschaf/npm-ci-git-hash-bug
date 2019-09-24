@@ -1,0 +1,14 @@
+{
+  "name": "npm-ci-git-hash-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "git+https://git@github.com/adaltas/node-csv-stringify.git#1d80bb9af46bad00adeb6ffd9031057cbd3917d2"
+  }
+}
